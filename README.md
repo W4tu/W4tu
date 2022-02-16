@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @W4tu
+  a mechanical Engineer trying to take root in Software Engineering/ Development
 
 - 👀 I’m interested in ...
   Research & Development, 
-  Systems Engineering,
+  Systems/ Software/ Product Engineering,
   (Mechanical) Engineering, 
   Computer technology
 
