@@ -16,10 +16,9 @@
   Stackoverflow
   
 - 💞️ I’m looking to collaborate on ...
-  New and modular Systems Engineering approaches in the field of mechanical engineering.
-  Mechanical Engineers tools seem very ancient to me. 
-  But who am I? Just a graduate. So... I am still learning and I never wanna stop.
-
+  integrating new and modular Systems Engineering approaches in the field of mechanical engineering.
+  Mechanical engineering tools seem rather ancient to me. But who am I? Just a graduate.
+  
 - 📫 How to reach me ...
   w4tu@posteo.net
 
