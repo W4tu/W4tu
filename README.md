@@ -7,12 +7,14 @@
   Systems/ Software/ Product Engineering,
   (Mechanical) Engineering, 
   Computer technology
+  fheroes (https://github.com/ihhub/fheroes2)
 
 - 🌱 I’m currently learning ...
   Raspberry Pi, 
   Github, 
   Git, 
   Python, 
+  C++
   Stackoverflow
   
 - 💞️ I’m looking to collaborate on ...
