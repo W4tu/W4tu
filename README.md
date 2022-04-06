@@ -6,20 +6,23 @@
   Research & Development, 
   Systems/ Software/ Product Engineering,
   (Mechanical) Engineering, 
-  Computer technology
+  Computer technology,
   fheroes (https://github.com/ihhub/fheroes2)
 
 - 🌱 I’m currently learning ...
   Raspberry Pi, 
-  Github, 
-  Git, 
   Python, 
   C++
   Stackoverflow
   
+- I already understand (a bit) ...
+  Github, 
+  Git,
+  Python,
+  PyBulle (Bullet Engine)
+  
 - 💞️ I’m looking to collaborate on ...
   integrating new and modular Systems Engineering approaches in the field of mechanical engineering.
-  Mechanical engineering tools seem rather ancient to me. But who am I? Just a graduate.
   
 - 📫 How to reach me ...
   w4tu@posteo.net
