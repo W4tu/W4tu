@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @W4tu,
 
-- graduates mechanical Engineer taking root in Software Engineering as a Python Developer.
+- graduated mechanical Engineer taking root in Software Engineering as a Python Developer.
 
 - 👀 I’m interested in ...
   Research & Development, 
