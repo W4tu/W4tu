@@ -8,7 +8,7 @@
   Clean Code,
   Continuous Improvement/ Antifragility,
   Virtual Commissioning,
-  Rust
+  Rust,
   fheroes (https://github.com/ihhub/fheroes2)
 
 - 🌱 I’m currently focussing on ...
