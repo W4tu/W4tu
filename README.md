@@ -1,25 +1,25 @@
 - 👋 Hi, I’m @W4tu,
 
-- mechanical Engineer trying to take root in Software Engineering/ Development
+- graduates mechanical Engineer taking root in Software Engineering as a Python Developer.
 
 - 👀 I’m interested in ...
   Research & Development, 
   Systems/ Software/ Product Engineering,
-  (Mechanical) Engineering, 
-  Computer technology,
+  Clean Code,
+  Continuous Improvement/ Antifragility,
+  Virtual Commissioning,
+  Rust
   fheroes (https://github.com/ihhub/fheroes2)
 
-- 🌱 I’m currently learning ...
-  Raspberry Pi, 
-  Python, 
-  C++
-  Stackoverflow
-  
-- I already understand (a bit) ...
-  Github, 
-  Git,
+- 🌱 I’m currently focussing on ...
+  advancing in Python
+    
+- I already know about ... 
+  Git, Bitbucket, GitHub
+  VS Code,
+  Bash/Unix,
   Python,
-  PyBulle (Bullet Engine)
+  PyBullet (Bullet Engine)
   
 - 💞️ I’m looking to collaborate on ...
   integrating new and modular Systems Engineering approaches in the field of mechanical engineering.
